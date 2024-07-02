@@ -4,7 +4,9 @@
   "description": "nextjs 강의 학습 : https://nomadcoders.co/nextjs-for-beginners",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "ISC",
