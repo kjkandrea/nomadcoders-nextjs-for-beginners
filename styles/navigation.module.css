@@ -1,0 +1,13 @@
+.nav {
+    background-color: #aaa;
+    padding: 5px;
+}
+
+.nav ul {
+    display: flex;
+    gap: 30px;
+}
+
+.nav ul li {
+    display: block;
+}
